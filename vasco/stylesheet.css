@@ -1,0 +1,9 @@
+.carousel-inner img {
+    max-height: 600px; /* Altura máxima */
+    width: auto; /* Ajusta automaticamente a largura */
+    object-fit: cover;
+  }
+
+.navbar-nav .nav-link:hover {
+    color: white !important; /* Muda a cor do texto para branco ao passar o mouse */
+}
